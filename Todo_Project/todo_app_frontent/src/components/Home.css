@@ -1,0 +1,29 @@
+.notebook-container {
+    padding: 20px;
+    font-family: 'Courier New', Courier, monospace; 
+}
+
+.notebook-content {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.search-bar {
+    margin-bottom: 20px;
+}
+
+.projects-list {
+    margin-top: 20px;
+}
+
+.project-card {
+    background-color: #fffbcc;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 15px;
+    margin-bottom: 10px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
